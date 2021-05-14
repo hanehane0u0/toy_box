@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: '/toy_box/',
+    publicPath: '/',
     outputDir: 'docs'
   }
