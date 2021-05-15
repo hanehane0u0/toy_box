@@ -1,4 +1,6 @@
 module.exports = {
-    publicPath: '',
-    outputDir: 'docs'
-  }
+  publicPath: '/toy_box',
+  outputDir: 'docs',
+  filenameHashing: false,
+  productionSourceMap: false,
+}
