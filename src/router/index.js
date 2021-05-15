@@ -6,7 +6,7 @@ Vue.use(VueRouter)
 
 const routes = [
   {
-    path: '/toy_box',
+    path: '/',
     name: 'Home',
     component: Home
   },
