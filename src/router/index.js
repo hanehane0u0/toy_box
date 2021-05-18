@@ -26,7 +26,7 @@ const routes = [
 
 const router = new VueRouter({
   mode: 'history',
-  base: '/toy_box/',
+  base: process.env.BASE_URL,
   routes
 })
 
